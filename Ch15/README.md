@@ -2,7 +2,7 @@
 * jQuery: DOM manipulation and more, well tested
 * Underscore & Lodash: Utility functions geared toward functional programming
 * Upside of using libraries:
-* Well tested
+..* Well tested
 Browser compatible
 Don’t reinvent the wheel
 	Downside of using libraries:
